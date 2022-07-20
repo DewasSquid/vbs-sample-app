@@ -1,0 +1,16 @@
+* {
+    color: white;
+    font-family: "Palanquin Dark";
+
+    behavior: url("PIE-1.0.0/PIE.htc");
+}
+
+body {
+    margin:0;
+    padding:0;
+    background-color: #424242;
+}
+
+#header img {
+    border: 0;
+}

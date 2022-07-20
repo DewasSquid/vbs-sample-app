@@ -1,0 +1,1 @@
+MsgBox "This is executed when landing on the index.hta page"
